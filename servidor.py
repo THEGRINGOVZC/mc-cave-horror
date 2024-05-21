@@ -3,8 +3,8 @@
 
 
 
-# Custom version
-# mohist / catserver   Install forge   first
+# Custom version "1.19.3"
+# mohist / catserver   Install forge   true
 # purpur               Install fabric  first
 # snapshot             Install vanilla first
 
